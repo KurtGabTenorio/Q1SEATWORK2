@@ -1,0 +1,29 @@
+#container1 {
+	background-color: #a8b9ff;
+	text-align: center;
+}
+
+.container2{
+	background-color: #a8b9ff; 
+	width: 308px;
+	padding: 20px;
+	margin: auto;
+	box-shadow:2px 2px 15px rgba(0,0,0, 0.8)
+}
+
+body{
+
+	 background-image: url('https://k-pop-planet.com/cdn/shop/products/84a77de44d7a83be9d475ac47712f2e0.png?v=1673944413');
+
+#submit{
+	border-radius: 10px;
+	background-color: #fbf4d5;
+	color: white;
+	font-size: 22px;
+	cursor: pointer;
+}
+
+label{
+	font-size:30px;
+	font-family: Consolas;
+}
